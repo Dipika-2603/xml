@@ -1,0 +1,6 @@
+<?xml version ="1.0"?>
+<!DOCTYPE car SYSTEM "p1.dtd">
+<car>
+	<id>5</id><company>BMW</company>
+	<name>vx21</name><year>2030</year><model>bmw</model><engine>X3000VB</engine><mileage>6500000vt</mileage>
+</car>
